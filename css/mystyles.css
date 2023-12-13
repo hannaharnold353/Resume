@@ -1,0 +1,12 @@
+.mb-2{
+    width: 500px;
+}
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.darkcolor {
+    background-color: rgb(11, 11, 68) !important;
+}
+.text-primary{
+    color: rgb(11, 11, 68) !important;
+}
